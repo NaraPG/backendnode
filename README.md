@@ -3,6 +3,13 @@
 ## This repository
 > In this course we learned how to make an API with Node.js, to serve static files, give them security and more.
 
+## Introduction
+#### What is Node.js?
+> Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+#### What is nodemon?
+> nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected.
+
 ## Contents
 > - HTTP
 > - MongoDB
